@@ -19,11 +19,11 @@ void main() {
     System.out.println(Arrays.toString(arr1));
     Cau 2.2
     int[] arr2={-2,1,-3,4,-1,2,1,-5,4};
-    int result2=KadaneAlgorithm.findMaxSum(arr2);
-    System.out.println(result2);*/
+    int result3=KadaneAlgorithm.findMaxSum(arr2);
+    System.out.println(result3);*/
 
     /* Cau 3
     int[] arr3={1,2,3,7,5};
-    int[] result3=SlidingWindow.findSumSubArray(arr3,12);
-    System.out.println(Arrays.toString(result3)); */
+    int[] result4=SlidingWindow.findSumSubArray(arr3,12);
+    System.out.println(Arrays.toString(result4)); */
 }
